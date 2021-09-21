@@ -4,3 +4,6 @@ this is modified file
 ......................
 modified again
 
+this is merge test
+
+merge
